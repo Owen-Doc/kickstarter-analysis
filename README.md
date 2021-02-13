@@ -1,6 +1,4 @@
 # An Analysis of Kickstarter Campaigns
-Some summary statistics on failed and successful kickstarter projects
-# Kickstarting with Excel
 
 ## Overview of Project
 Crowdfunding has become a very popular way for entrepreneurs, creatives, and individuals to raise capital from investment backers on the internet. These projects may include things in the medical device field, consumer goods, app development, and creative projects. Kickstarter is a popular crowdfunding site, and in this project, I utilize data from Kickstarter to analyze trends of crowdfunded projects in the theater industry across the world.
